@@ -15,3 +15,9 @@ You can see the pdf file for more details.
 * PyTorch
 ![PyTorch](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/pytorch.png)
 
+other modules:
+
+* numpy
+* scipy
+
+* Pandas
