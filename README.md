@@ -28,5 +28,5 @@ Files in ml-1m of Movielens contain 1,000,209 anonymous ratings of approximately
 
 <p>
 <img width="300" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/movielens.png" align="left">
-<img width="100" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/tmdb.png" align="right">
+<img width="100" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/tmdb.png" align="left">
 </p>
