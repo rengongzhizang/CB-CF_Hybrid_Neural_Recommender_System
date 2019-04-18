@@ -57,4 +57,12 @@ Run `python main.py`
 
 We could figure out that the best `drop_out_rate = 0.3`, best number of layers of MLP is `layers = 5`, and best layers' dimensions are `[32, 16 ,8 ,4, 2]`
 
+### Experiment 2: Pretrained vs. No Pretrained
+
+<p align="center">
+<img width="820" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture4.png">
+</p><br /><br /><br /><br /><br /><br /> <br /><br />
+
+
+
 
