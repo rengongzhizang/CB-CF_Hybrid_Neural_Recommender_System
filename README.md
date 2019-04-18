@@ -64,5 +64,7 @@ We could figure out that the best `drop_out_rate = 0.3`, best number of layers o
 </p><br /><br /><br /><br /><br /><br /> <br /><br />
 
 
+Our model out-performed He's CF only Neural RS with performance shown as follows:
 
+![Performance](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/performance.png)
 
