@@ -22,7 +22,7 @@ please `pip install` the following modules into the project folder:
 
 
 ## Data preparation
-We used the dataset of MovieLens of the version of ml-1m,  and the dataset of The Movie Database(TMDb).
+We used the dataset of [MovieLens](https://grouplens.org/datasets/movielens/1m/) of the version of ml-1m,  and the dataset of The [Movie Database(TMDb)](https://www.themoviedb.org).
 
 Files in ml-1m of Movielens contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users; We also request and parse data such like movie plot overview from TMDb via open API as a complement to the dataset of MovieLens. 
 
