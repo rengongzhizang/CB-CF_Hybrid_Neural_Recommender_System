@@ -3,10 +3,8 @@ This is a PyTorch implementation of a  Hybrid Recommendation System Based on Neu
 
 Here is CB-CF Hybrid Neural Recommender System:
 
-![CB-CF Hybrid Neural Recommender System](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/model.png)
-
 <p align="center">
-<img width="460" height="300" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/model.png">
+<img width="600" height="300" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/model.png">
 </p>
 
 You can see the pdf file for more details.
