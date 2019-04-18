@@ -10,7 +10,8 @@ Here is CB-CF Hybrid Neural Recommender System:
 You can see the pdf file for more details.
 
 ## Dependencies
-python 3.6
+⋅⋅* python 3.6
 
-PyTorch
+⋅⋅* PyTorch
 ![PyTorch](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/pytorch.png)
+
