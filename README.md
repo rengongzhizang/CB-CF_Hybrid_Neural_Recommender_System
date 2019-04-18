@@ -26,9 +26,7 @@ We used the dataset of [MovieLens](https://grouplens.org/datasets/movielens/1m/)
 
 Files in ml-1m of Movielens contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users; We also request and parse data such like movie plot overview from TMDb via open API as a complement to the dataset of MovieLens. 
 
-<p align="left">
-<img width="300" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/movielens.png">
-</p>
-<p align="right">
-<img width="100" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/tmdb.png">
+<p>
+<img width="300" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/movielens.png" align="left">
+<img width="100" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/tmdb.png" align="right">
 </p>
