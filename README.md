@@ -49,7 +49,7 @@ Run `python main.py`
 ### Experiment 1: Hyper-parameter Tuning
 
 <p>
-<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture1.png" align="left">
-<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture2.png" align="left">
-<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture3.png" align="left">
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture1.png" align="left">
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture2.png" align="left">
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture3.png" align="left">
 </p>   
