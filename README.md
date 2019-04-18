@@ -44,4 +44,12 @@ Several PyTorch Tensor such as `genre_features_train.pt`, `genre_features_test.p
 ## Training
 Run `python main.py`
 
+## Our performance
 
+### Experiment 1: Hyper-parameter Tuning
+
+<p>
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture1.png" align="left">
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture2.png" align="left">
+<img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/picture3.png" align="left">
+</p>   
