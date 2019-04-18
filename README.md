@@ -50,7 +50,7 @@ Run `python main.py`
 
 <p>
 <img width="290" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture1.png" align="left">
-<img width="290" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture2.png" align="left">
+<img width="280" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture2.png" align="left">
 <img width="290" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture3.png" align="left">
 </p> <br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
