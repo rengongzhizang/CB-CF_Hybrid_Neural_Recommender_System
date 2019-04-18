@@ -40,3 +40,8 @@ We have pre-combined all date you need into the folder data.
 All you need to do are: `python preprocessData.py`
 
 Several PyTorch Tensor such as `genre_features_train.pt`, `genre_features_test.pt`, `user_features_train.pt`, `user_features_test.pt`, `plot_features_train.pt`, and `plot_features_test.pt` would be generated and saved in the folder of data.
+
+## Training
+Run `python main.py`
+
+
