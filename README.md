@@ -52,7 +52,7 @@ Run `python main.py`
 <img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture1.png" align="left">
 <img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture2.png" align="left">
 <img width="250" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/Picture3.png" align="left">
-</p> <br />
+</p> <br /><br /><br /><br /><br /><br />
 
 We could figure out that the best `drop_out_rate = 0.3`, best number of layers of MLP is `layers = 5`, and best layers' dimensions are `[32, 16 ,8 ,4, 2]`
 
