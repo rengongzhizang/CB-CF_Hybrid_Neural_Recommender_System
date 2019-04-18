@@ -31,7 +31,7 @@ Files in ml-1m of Movielens contain 1,000,209 anonymous ratings of approximately
 <img width="100" src="https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/tmdb.png" align="left">
 </p>
 
-
+<br />
 We have pre-combined all date you need into the folder data.
 
 All you need to do are: `python preprocessData.py`
