@@ -10,7 +10,7 @@ Here is CB-CF Hybrid Neural Recommender System:
 You can see the pdf file for more details.
 
 Our group:
-![Team](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/16581555624866_.pic_hd)
+![Team](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/team.jpg)
 
 ## Dependencies
 * python 3.6
