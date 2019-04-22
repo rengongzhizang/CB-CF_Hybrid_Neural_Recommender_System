@@ -9,6 +9,9 @@ Here is CB-CF Hybrid Neural Recommender System:
 
 You can see the pdf file for more details.
 
+Our group:
+![Team](https://github.com/rengongzhizang/CB-CF_Hybrid_Neural_Recommender_System/blob/master/images/16581555624866_.pic_hd)
+
 ## Dependencies
 * python 3.6
 
@@ -43,6 +46,11 @@ Several PyTorch Tensor such as `genre_features_train.pt`, `genre_features_test.p
 
 ## Training
 Run `python main.py`
+
+Updates on April 22nd, 2019: a shell script - MAKEFILE.sh - has been added.
+
+Run `chmod +x ./MAKEFILE.sh`
+Then run `./MAKEFILE.sh`
 
 ## Our performance
 
